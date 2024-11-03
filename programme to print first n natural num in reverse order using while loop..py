@@ -1,0 +1,5 @@
+# PROGRAMME TO PRINT 'n' NATURAL NUMBERS IN REVERSE ORDER.
+n=int(input('ENTER THE NUM FROM WHERE YOU WANT TO PRINT IN REVERSE ORDER: '));
+while n>=1:
+    print(n);
+    n=n-1;
